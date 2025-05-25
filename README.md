@@ -4,7 +4,36 @@
 ## Team Members Name
 Sajal Deep, Yash Rathore, Hemant Jha, Shreya Gantayat, Khushi Jain
 
-# Challenge 1 - Complete Transcript
+# Setup and run instructions
+
+> Recommended: Use a virtual environment or conda environment.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/gantayat03/soilclassification_annam.git
+cd soilclassification_annam
+```
+### 2. Install the dependencies 
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the code of your choice in jupyter notebooks or vscode 
+
+```bash
+jupyter notebook Challenge1.ipynb
+```
+
+```bash
+jupyter notebook Challenge2.ipynb
+```
+
+--- 
+
+
+# Challenge 1 
 
 ## Approach of Solving the Problem
 
@@ -60,7 +89,7 @@ Class imbalance is a critical factor in multi-class classification problems. Pro
 
 ---
 
-# Challenge 2 - Complete Transcript
+# Challenge 2 
 
 ## Approach of Solving the Problem
 
