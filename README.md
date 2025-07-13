@@ -1,5 +1,5 @@
 ## Team Name
-**Hacknova**
+*Hacknova*
 
 ## Team Members Name
 Sajal Deep, Yash Rathore, Hemant Jha, Shreya Gantayat, Khushi Jain
